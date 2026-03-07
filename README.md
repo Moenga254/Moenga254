@@ -172,7 +172,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <!-- GRADED STATS + LANGUAGES SIDE BY SIDE -->
 <div align="center">
@@ -210,7 +210,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-### 🚀 Why Work With Me
+###  Why Work With Me
 
 ```diff
 + Clean, readable, and well-documented code
@@ -251,7 +251,7 @@
 
 <div align="center">
 
-  ### 💬 Let's Build Something Great Together
+  ###  Let's Build Something Great Together
 
   > *Whether you have a project in mind, a role to fill, or just want to talk tech — my inbox is always open.*
 
