@@ -49,17 +49,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-### 🙋 About Me
+###  About Me
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moenga254&layout=compact&langs_count=6&theme=highcontrast&hide_border=true&title_color=4a9eff&text_color=ffffff&bg_color=000000" width="340"/>
 
-- 🔭 &nbsp; Currently building projects that solve real-world problems
-- 📚 &nbsp; Deepening my skills in **TypeScript & Node.js**
-- 💬 &nbsp; Talk to me about **PHP · CSS · HTML5 · JavaScript · MySQL**
-- 🌍 &nbsp; Based in **Kenya** — open to remote & contract work worldwide
-- 💡 &nbsp; Passionate about **clean code**, great UX, and open source
-- 📩 &nbsp; Reach me at **kmoenga2@gmail.com**
-- ⚡ &nbsp; Fun fact: I debug faster with coffee ☕
+-  &nbsp; Currently building projects that solve real-world problems
+-  &nbsp; Deepening my skills in **TypeScript & Node.js**
+-  &nbsp; Talk to me about **PHP · CSS · HTML5 · JavaScript · MySQL**
+-  &nbsp; Based in **Kenya** — open to remote & contract work worldwide
+-  &nbsp; Passionate about **clean code**, great UX, and open source
+-  &nbsp; Reach me at **kmoenga2@gmail.com**
+-  &nbsp; Fun fact: I debug faster with coffee ☕
 
 <br clear="right"/>
 
@@ -105,15 +105,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-### 💼 What I Bring to the Table
+###  What I Bring to the Table
 
 | | Skill Area | Details |
 |---|---|---|
-| 🔴 | **Frontend** | Pixel-perfect UIs with HTML5, CSS3, JavaScript & React |
-| 🔵 | **Backend** | Server-side logic with PHP & RESTful API design |
-| 🟢 | **Database** | Relational data modelling and queries with MySQL |
-| 🟠 | **DevOps & Deploy** | Git version control, GitHub Actions, Vercel deployments |
-| 🔵 | **Currently Learning** | TypeScript, Node.js & scalable system design |
+|  | **Frontend** | Pixel-perfect UIs with HTML5, CSS3, JavaScript & React |
+|  | **Backend** | Server-side logic with PHP & RESTful API design |
+|  | **Database** | Relational data modelling and queries with MySQL |
+|  | **DevOps & Deploy** | Git version control, GitHub Actions, Vercel deployments |
+|  | **Currently Learning** | TypeScript, Node.js & scalable system design |
 
 <br/>
 
