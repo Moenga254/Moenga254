@@ -70,35 +70,15 @@ HTML5 • CSS3 • JavaScript • React • PHP • MySQL • Vercel • Git •
 <!-- Option C: visitorbadge.io alternative -->
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMoenga254&label=Visitors&countColor=%234a9eff" alt="Visitors"/>
 
--- CONTRIBUTION SNAKE — Platane/snk GitHub Action -->
-<!-- Step 1: create .github/workflows/snake.yml in your profile repo -->
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<!-- Step 2: add this to your README after the first workflow run -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
+
+<!-- CONTRIBUTION SNAKE -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Moenga254/Moenga254/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Moenga254/Moenga254/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Moenga254/Moenga254/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
