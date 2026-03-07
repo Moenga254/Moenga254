@@ -1,6 +1,6 @@
 <!-- ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kevin%20Moenga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%2F%20Open%20Source%20Fan&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=180&section=header&text=Kevin%20Moenga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%2F%20Open%20Source%20Fan&descSize=16&descAlignY=55" />
 </div>
 
 <!-- TYPING SVG -->
@@ -58,22 +58,22 @@
 
 <!-- GRADED STATS CARD -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moenga254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moenga254&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=ff5252&icon_color=4a9eff&text_color=ffffff&bg_color=000000" />
 </div>
 
 <!-- CONTRIBUTION STREAK -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moenga254&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moenga254&theme=highcontrast&hide_border=true&ring=ff5252&fire=ff5252&currStreakLabel=4a9eff" />
 </div>
 
 <!-- MOST USED LANGUAGES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moenga254&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moenga254&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&title_color=ff5252&text_color=ffffff&bg_color=000000" />
 </div>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moenga254&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moenga254&bg_color=000000&color=4a9eff&line=ff5252&point=ffffff&hide_border=true&area=true&area_color=ff5252" />
 </div>
 
 ---
@@ -92,5 +92,5 @@
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=100&section=footer" />
 </div>
